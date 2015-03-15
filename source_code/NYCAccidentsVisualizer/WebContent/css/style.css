@@ -1,0 +1,54 @@
+ /*Map Div*/
+ #map { height: 100%; margin:15px; min-height:300px}
+ .map {height:100%; position:relative; height:700px}
+ 
+ /*Hepling classes*/
+  
+  .pad0 {
+  padding:0px;
+  }
+  
+  
+  .padtop {
+  padding-top: 10px;
+  }
+
+  .floatr {
+  float:right
+  }
+  .space {
+  width: 5px;
+  display: inline-block;
+  height: 10px;
+  }
+
+  .element {
+  display: inline-block;
+
+  }
+  .element input {
+  margin-right:2px;
+  }
+
+  .marleft15 {
+  margin-left: 15px;
+  }
+
+  .row {
+  padding-bottom: 5px;
+  }
+
+  /*Scroller - to scroll filter box up and dwon*/
+  .scroller {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+  background-color: rgb(245, 242, 242);
+  border-color: rgb(223, 220, 215);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  }
+  .accidents-count-info {
+  margin-right:15px
+  }
